@@ -5,7 +5,7 @@ I am Berke, and this is my Github page.
 CSE Student at Marmara University
 ---------------------------------
 
-Embarking on a daily coding journey fueled by passion and curiosity! 🚀 Currently immersed in the world of Python. And eager to delve deeper into web development - join me as I weave lines of code into a tapestry of learning and fun! 💻✨
+Embarking on a daily coding journey fueled by passion and curiosity! 🚀 Currently eager to delve deeper into web development - join me as I weave lines of code into a tapestry of learning and fun! 💻✨
 
 * 🌍  I'm based in Istanbul, Turkey
 * ✉️  You can contact me at [bayramberke@outlook.com.tr](mailto:bayramberke@outlook.com.tr)
