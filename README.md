@@ -1,15 +1,9 @@
 Hello! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  
-I am Berke, and this is my Github page.
+I am Berke, and this is my Github page. (Retired)
 ====================================================================================================================================
 
-CSE Student at Marmara University
----------------------------------
 <p>Embarking on a daily coding journey fueled by passion and curiosity! 🚀</p>
 <p>Currently eager to delve deeper into web development - join me as I weave lines of code into a tapestry of learning and fun! 💻✨</p>
-
-* 🌍  I'm based in Istanbul, Turkey
-* ✉️  You can contact me at [bayramberke@outlook.com.tr](mailto:bayramberke@outlook.com.tr)
-* 🧠  I'm currently learning JavaScript and more about web development.
 
 ### Skills
 
